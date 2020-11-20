@@ -1,4 +1,4 @@
-Fall 2020
+Fall 2020<br/>
 Joseph Ko
 
 # Regional-scale Climate Modeling on HPC using WRF
@@ -7,7 +7,9 @@ Joseph Ko
 
 ### What is WRF?
 
-WRF = Weather Research and Forecasting Model 
+**WRF** = **W**eather **R**esearch and **F**orecasting Model 
 
 ![image of generic climate model](image.png)
+
+### Research question(s)?
 
