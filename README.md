@@ -1,3 +1,5 @@
+CSCI 596<br/>
+Final Project<br/>
 Fall 2020<br/>
 Joseph Ko
 
