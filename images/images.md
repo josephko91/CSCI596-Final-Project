@@ -1,1 +1,1 @@
-
+This folder holds images used in repo.
