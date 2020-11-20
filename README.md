@@ -20,7 +20,7 @@ WRF = Weather Research and Forecasting Model
 
 ![image of RCM](images/rcm_schematic.jpg)
 
-<img src="https://github.com/josephko91/CSCI596-Final-Project/tree/main/images/rcm_schematic.jpg" width="50">
+<img src="images/rcm_schematic.jpg" width="500" alt="hi" class="inline"/>
 
 ### Primary research question?
 
