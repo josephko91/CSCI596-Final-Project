@@ -25,6 +25,7 @@ WRF = Weather Research and Forecasting Model
 
 ### Primary research question?
 How much does anthropogenic waste heat (e.g., heat from AC, vehicles, industry) contribute to the urban heat island in the Los Angeles Basin?
+<img src="images/UHI.jpg" width="500" alt="hi" class="inline"/>
 
 ### How is this relevant to CSCI596?
 - climate models -> computationally intensive -> need to run on supercomputers
