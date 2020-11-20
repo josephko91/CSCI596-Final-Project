@@ -15,7 +15,7 @@ Joseph Ko
 WRF = Weather Research and Forecasting Model 
 - open-source, regional-scale climate model (ranging from ~city to continental scale)
 - primarily developed/maintained by NCAR and NOAA
-- >48K registered users worldwide
+- more than 48,000 registered users worldwide
 - Link to WRF repository: https://github.com/wrf-model/WRF
 
 ![image of RCM](image.png)
