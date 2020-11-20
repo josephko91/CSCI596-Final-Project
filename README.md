@@ -9,6 +9,7 @@ Joseph Ko
 
 ### What is a climate model?
 <img src="images/climate_model_schematic.png" width="500" alt="hi" class="inline"/>
+
 ### What is WRF?
 
 WRF = Weather Research and Forecasting Model 
