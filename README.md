@@ -20,7 +20,10 @@ WRF = Weather Research and Forecasting Model
 
 ![image of RCM](images/rcm_schematic.jpg)
 
-### Primary research question
+<img src="https://github.com/josephko91/CSCI596-Final-Project/tree/main/images/rcm_schematic.jpg" width="50">
+
+### Primary research question?
+
 
 ### How is this relevant to CSCI596?
 - climate models -> computationally intensive -> need to run on supercomputers
