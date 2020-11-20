@@ -20,5 +20,12 @@ WRF = Weather Research and Forecasting Model
 
 ![image of RCM](image.png)
 
-### Research question(s)?
+### Primary research question
 
+### How is this relevant to CSCI596?
+- climate models -> computationally intensive -> need to run on supercomputers
+- "...WRF is highly scalable and it can be run on extremely large core counts..." -[UCAR](https://www2.cisl.ucar.edu/resources/optimizing-wrf-performance)
+- built-in MPI/OpenMP options
+- GPU acceleration potential to be explored
+
+Goal: Perform basic benchmarking and scaling analysis to figure out optimal resource allocation and configuration for my application(s).
