@@ -8,8 +8,7 @@ Joseph Ko
 ## One-minute overview
 
 ### What is a climate model?
-![image of GCM](images/climate_model_schematic.png)
-
+<img src="images/climate_model_schematic.png" width="500" alt="hi" class="inline"/>
 ### What is WRF?
 
 WRF = Weather Research and Forecasting Model 
@@ -17,8 +16,6 @@ WRF = Weather Research and Forecasting Model
 - primarily developed/maintained by NCAR and NOAA
 - more than 48,000 registered users worldwide
 - Link to WRF repository: https://github.com/wrf-model/WRF
-
-![image of RCM](images/rcm_schematic.jpg)
 
 <img src="images/rcm_schematic.jpg" width="500" alt="hi" class="inline"/>
 
