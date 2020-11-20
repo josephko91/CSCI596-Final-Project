@@ -28,6 +28,8 @@ How much does anthropogenic waste heat (e.g., heat from AC, vehicles, industry) 
 
 <img src="images/UHI.png" width="500" alt="hi" class="inline"/>
 
+(image credit: [Germany's National Meteorological Service](https://www.dwd.de/EN/research/climateenvironment/climate_impact/urbanism/urban_heat_island/urbanheatisland_node.html))
+
 ### How is this relevant to CSCI596?
 - climate models -> computationally intensive -> need to run on supercomputers
 - "...WRF is highly scalable and it can be run on extremely large core counts..." -[UCAR](https://www2.cisl.ucar.edu/resources/optimizing-wrf-performance)
