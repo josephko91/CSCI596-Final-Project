@@ -8,7 +8,7 @@ Joseph Ko
 ## One-minute overview
 
 ### What is a climate model?
-![image of GCM](josephko91.github.com/CSCI596-Final-Project/images/climate_model_schematic.png)
+![image of GCM](images/climate_model_schematic.png)
 
 ### What is WRF?
 
@@ -18,7 +18,7 @@ WRF = Weather Research and Forecasting Model
 - more than 48,000 registered users worldwide
 - Link to WRF repository: https://github.com/wrf-model/WRF
 
-![image of RCM](josephko91.github.com/CSCI596-Final-Project/images/rcm_schematic.jpg)
+![image of RCM](images/rcm_schematic.jpg)
 
 ### Primary research question
 
