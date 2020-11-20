@@ -10,7 +10,7 @@ Joseph Ko
 ### What is a climate model?
 <img src="images/climate_model_schematic.png" width="500" alt="hi" class="inline"/>
 
-image credit: [NOAA](https://www.climate.gov/file/atmosphericmodelschematicpng)
+)image credit: [NOAA](https://www.climate.gov/file/atmosphericmodelschematicpng))
 
 ### What is WRF?
 WRF = Weather Research and Forecasting Model 
@@ -21,7 +21,7 @@ WRF = Weather Research and Forecasting Model
 
 <img src="images/rcm_schematic.jpg" width="500" alt="hi" class="inline"/>
 
-image credit: [Filippo Giorgi](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JD030094)
+(image credit: [Filippo Giorgi](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JD030094))
 
 ### Primary research question?
 
