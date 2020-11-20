@@ -7,11 +7,18 @@ Joseph Ko
 
 ## One-minute overview
 
+### What is a climate model?
+![image of GCM](image.png)
+
 ### What is WRF?
 
-**WRF** = **W**eather **R**esearch and **F**orecasting Model 
+WRF = Weather Research and Forecasting Model 
+- open-source, regional-scale climate model (ranging from ~city to continental scale)
+- primarily developed/maintained by NCAR and NOAA
+- >48K registered users worldwide
+- Link to WRF repository: https://github.com/wrf-model/WRF
 
-![image of generic climate model](image.png)
+![image of RCM](image.png)
 
 ### Research question(s)?
 
