@@ -107,7 +107,17 @@ rsl.out.* & rsl.error.* (tail -n 30 rsl.out.0000)
 ```
 ## (4) Examples of past WRF applications
 
-insert two figures from group work
+Example 1: Effects of urbanization on regional meteorology and air quality in Southern California ([Li et al., 2019](https://acp.copernicus.org/articles/19/4439/2019/))
+
+<img src="images/li_fig.png" width="700" alt="hi" class="inline"/>
+
+- This figure shows the spatial patterns of differences (present-day − nonurban) in temporally averaged values during morning, afternoon, and nighttime for (a, b, c) air temperature in the lowest atmospheric layer and (d, e, f) ventilation coefficient. 
+
+Example 2: Investigating the climate impacts of urbanization and the potential for cool roofs to counter future climate change in Southern California ([Vahmani et al., 2016](https://iopscience.iop.org/article/10.1088/1748-9326/11/12/124027#erlaa4e1bf4))
+
+<img src="images/vahmani_fig.jpg" width="700" alt="hi" class="inline"/>
+
+- This figure shows the simulated two-meter air (a, b) and surface temperature (c, d)  differences  induced by the urban heat island (present-day minus no-urban). 
 
 ## (5) Performance benchmarking and scaling analysis
 
