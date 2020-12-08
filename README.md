@@ -111,3 +111,6 @@ insert two figures from group work
 
 ## (5) Performance benchmarking and scaling analysis
 
+- At least 3 ensembles of standard test cases (provided by NCAR/NOAA) will be run on the HPC using various MPI/OMP/Hybrid configurations in order to compare performance to previous test case runs on other HPCs
+- Strong and weak scaling will be investigated with our case-specific UHI modeling, starting from a coarse resolution and then moving to higher, research-grade resolutions
+- GPU acceleration of WRF will be explored after successful runs using MPI, OpenMP, and Hybrid parallellization
